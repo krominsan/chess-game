@@ -1,8 +1,0 @@
-Como Correr o Programa na versão Consola:
-
-"python -m application.program"
-
-Como Correr o Programa na versão GUI:
-
-"python -m application.GUI"
-Ou executar o EXE na root do projeto
